@@ -1,6 +1,8 @@
 # konnekt
 Making contact sharing easy
 
+This is proposed idea for Google Code-in tasks for fossasia. 
+
 Every year thousands of people attends various conferences across the world. But to connect with each other they still use the same old business cards in this digital age. These cards gets lost and we might loose an important contact. Let's digitalize this. A simple QRCode based contact sharing utility. "Konnekt".
 
 Idea: 
